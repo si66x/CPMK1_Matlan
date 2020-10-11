@@ -1,5 +1,5 @@
 #soal nomor 1
-A <- matrix(c(1:6),3,3,TRUE)
+A <- matrix(c(1:9),3,3,TRUE)
 A
 #soal 1A
 rownames(A) <- c("row1","row2","row3")
